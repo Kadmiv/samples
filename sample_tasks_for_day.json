@@ -7,7 +7,6 @@
   "comment": "",
   "routes": [
     {
-//      ID курьера
       "id": "1",
       "value": 1382,
       "driver": "",
@@ -16,8 +15,7 @@
       "numberOfTask": 26,
       "transport": "7000057",
       "distance": 400263,
-      "endTime": "04.11.2016 19:56:56",
-//      Точки тасков на день для курьера
+      "endTime": "04.11.2016 19:56:56"
       "sections": [
         {
           "waypointId": "",
