@@ -15,7 +15,7 @@
       "numberOfTask": 26,
       "transport": "7000057",
       "distance": 400263,
-      "endTime": "04.11.2016 19:56:56"
+      "endTime": "04.11.2016 19:56:56",
       "sections": [
         {
           "waypointId": "",
@@ -30716,82 +30716,4 @@
   "distance": 3882118,
   "branch": "",
   "time": 992478
-}
-Response headers
- connection: keep-alive 
- content-length: 617423 
- content-type: application/json;  charset=utf-8 
- date: Mon, 18 Mar 2019 15:35:29 GMT 
- server: nginx/1.6.2 
-Responses
-Code	Description
-200	
-Сервис выполнил обработку запроса
-
-Example Value
-Model
-{
-  "id": "string",
-  "clientId": "string",
-  "clientName": "string",
-  "branch": "string",
-  "version": 0,
-  "approved": true,
-  "value": 0,
-  "distance": 0,
-  "time": 0,
-  "numberOfTasks": 0,
-  "numberOfOrphans": 0,
-  "shiftName": "string",
-  "shiftId": "string",
-  "comment": "string",
-  "routes": [
-    {
-      "id": "string",
-      "tarnsport": "string",
-      "number": 0,
-      "driver": "string",
-      "startTime": "2019-03-18T15:35:28.530Z",
-      "endTime": "2019-03-18T15:35:28.530Z",
-      "value": 0,
-      "distance": 0,
-      "time": 0,
-      "numberOfTask": 0,
-      "sections": [
-        {
-          "number": "string",
-          "startTime": "2019-03-18T15:35:28.530Z",
-          "arrivalTime": "2019-03-18T15:35:28.530Z",
-          "endTime": "2019-03-18T15:35:28.530Z",
-          "startWaypointId": "string",
-          "waypointId": "string",
-          "areaId": "string",
-          "lat": 0,
-          "lon": 0,
-          "taskNumber": "string",
-          "taskNumberSystem": "string",
-          "availabilityWindows": [
-            {
-              "startTime": "09:00:00",
-              "endTime": "18:30:00"
-            }
-          ],
-          "weight": 0,
-          "volume": 0,
-          "value": 0,
-          "taskDate": "string",
-          "distance": 0,
-          "travelTime": 0,
-          "downTime": 0,
-          "taskTime": 0
-        }
-      ]
-    }
-  ],
-  "unhandledJobs": [
-    {
-      "number": "string",
-      "date": "string"
-    }
-  ]
 }
