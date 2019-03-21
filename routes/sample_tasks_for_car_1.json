@@ -1,0 +1,959 @@
+{
+      "id": "2",
+      "value": 1308,
+      "driver": "",
+      "number": 1,
+      "startTime": "04.11.2016 06:28:46",
+      "numberOfTask": 33,
+      "transport": "7000041",
+      "distance": 373180,
+      "endTime": "04.11.2016 19:22:00",
+      "sections": [
+        {
+          "waypointId": "",
+          "volume": 0,
+          "travelTime": 0,
+          "taskDate": "",
+          "value": 0,
+          "lat": 50.450865,
+          "number": 1,
+          "weight": 0,
+          "availabilityWindows": [
+            {
+              "endTime": "18:00:00",
+              "startTime": "08:00:00"
+            }
+          ],
+          "startTime": "04.11.2016 06:28:46",
+          "areaId": "",
+          "taskNumber": "",
+          "lon": 30.3553,
+          "distance": 0,
+          "arrivalTime": "04.11.2016 06:28:46",
+          "taskNumberSystem": "",
+          "endTime": "04.11.2016 06:28:46",
+          "startWaypointId": "",
+          "downTime": 0,
+          "taskTime": 0
+        },
+        {
+          "waypointId": "11527",
+          "volume": 0,
+          "travelTime": 5474,
+          "taskDate": "18.09.2014",
+          "value": 771.24,
+          "lat": 49.969545,
+          "number": 2,
+          "weight": 18,
+          "availabilityWindows": [
+            {
+              "endTime": "15:00:00",
+              "startTime": "08:00:00"
+            }
+          ],
+          "startTime": "04.11.2016 06:28:46",
+          "areaId": "362",
+          "taskNumber": "BGUБГЮ00038127",
+          "lon": 31.042449,
+          "distance": 92615,
+          "arrivalTime": "04.11.2016 08:00:00",
+          "taskNumberSystem": "000840445 ",
+          "endTime": "04.11.2016 08:18:45",
+          "startWaypointId": "",
+          "downTime": 0,
+          "taskTime": 1125
+        },
+        {
+          "waypointId": "67",
+          "volume": 0,
+          "travelTime": 1515,
+          "taskDate": "18.09.2014",
+          "value": 579.1,
+          "lat": 49.8644,
+          "number": 3,
+          "weight": 14.76,
+          "availabilityWindows": [
+            {
+              "endTime": "15:00:00",
+              "startTime": "08:00:00"
+            }
+          ],
+          "startTime": "04.11.2016 08:18:45",
+          "areaId": "384",
+          "taskNumber": "BGUБГЮ00038122",
+          "lon": 30.826478,
+          "distance": 21891,
+          "arrivalTime": "04.11.2016 08:44:00",
+          "taskNumberSystem": "000840386 ",
+          "endTime": "04.11.2016 08:47:28",
+          "startWaypointId": "11527",
+          "downTime": 0,
+          "taskTime": 208
+        },
+        {
+          "waypointId": "67",
+          "volume": 0,
+          "travelTime": 0,
+          "taskDate": "18.09.2014",
+          "value": 477.53,
+          "lat": 49.8644,
+          "number": 4,
+          "weight": 0,
+          "availabilityWindows": [
+            {
+              "endTime": "15:00:00",
+              "startTime": "08:00:00"
+            }
+          ],
+          "startTime": "04.11.2016 08:47:28",
+          "areaId": "384",
+          "taskNumber": "BGUБГЮ00038162",
+          "lon": 30.826478,
+          "distance": 12,
+          "arrivalTime": "04.11.2016 08:47:28",
+          "taskNumberSystem": "000840387 ",
+          "endTime": "04.11.2016 09:06:24",
+          "startWaypointId": "67",
+          "downTime": 0,
+          "taskTime": 1136
+        },
+        {
+          "waypointId": "9281",
+          "volume": 0,
+          "travelTime": 174,
+          "taskDate": "18.09.2014",
+          "value": 1283.28,
+          "lat": 49.84771,
+          "number": 5,
+          "weight": 40.54,
+          "availabilityWindows": [
+            {
+              "endTime": "15:00:00",
+              "startTime": "08:00:00"
+            }
+          ],
+          "startTime": "04.11.2016 09:06:24",
+          "areaId": "317",
+          "taskNumber": "BGUБГЮ00038128",
+          "lon": 30.825427,
+          "distance": 1940,
+          "arrivalTime": "04.11.2016 09:09:18",
+          "taskNumberSystem": "000840388 ",
+          "endTime": "04.11.2016 09:29:24",
+          "startWaypointId": "67",
+          "downTime": 0,
+          "taskTime": 1206
+        },
+        {
+          "waypointId": "6465",
+          "volume": 0,
+          "travelTime": 1952,
+          "taskDate": "18.09.2014",
+          "value": 838.3,
+          "lat": 49.660255,
+          "number": 6,
+          "weight": 23.86,
+          "availabilityWindows": [
+            {
+              "endTime": "15:00:00",
+              "startTime": "08:00:00"
+            }
+          ],
+          "startTime": "04.11.2016 09:29:24",
+          "areaId": "344",
+          "taskNumber": "BGUБГЮ00038123",
+          "lon": 30.981531,
+          "distance": 26955,
+          "arrivalTime": "04.11.2016 10:01:56",
+          "taskNumberSystem": "000840420 ",
+          "endTime": "04.11.2016 10:21:17",
+          "startWaypointId": "9281",
+          "downTime": 0,
+          "taskTime": 1161
+        },
+        {
+          "waypointId": "11161",
+          "volume": 0,
+          "travelTime": 1447,
+          "taskDate": "18.09.2014",
+          "value": 314.98,
+          "lat": 49.54302,
+          "number": 7,
+          "weight": 9.153,
+          "availabilityWindows": [
+            {
+              "endTime": "18:00:00",
+              "startTime": "08:00:00"
+            }
+          ],
+          "startTime": "04.11.2016 10:21:17",
+          "areaId": "267",
+          "taskNumber": "BGUф0000094910",
+          "lon": 30.869887,
+          "distance": 17904,
+          "arrivalTime": "04.11.2016 10:45:24",
+          "taskNumberSystem": "000840291 ",
+          "endTime": "04.11.2016 10:53:32",
+          "startWaypointId": "6465",
+          "downTime": 0,
+          "taskTime": 488
+        },
+        {
+          "waypointId": "6917",
+          "volume": 0,
+          "travelTime": 50,
+          "taskDate": "18.09.2014",
+          "value": 204.96,
+          "lat": 49.540653,
+          "number": 8,
+          "weight": 9.628,
+          "availabilityWindows": [
+            {
+              "endTime": "18:00:00",
+              "startTime": "08:00:00"
+            }
+          ],
+          "startTime": "04.11.2016 10:53:32",
+          "areaId": "267",
+          "taskNumber": "BGUф0000094925",
+          "lon": 30.866657,
+          "distance": 452,
+          "arrivalTime": "04.11.2016 10:54:22",
+          "taskNumberSystem": "000840293 ",
+          "endTime": "04.11.2016 11:02:15",
+          "startWaypointId": "11161",
+          "downTime": 0,
+          "taskTime": 473
+        },
+        {
+          "waypointId": "1909",
+          "volume": 0,
+          "travelTime": 210,
+          "taskDate": "18.09.2014",
+          "value": 184.58,
+          "lat": 49.534164,
+          "number": 9,
+          "weight": 15.7,
+          "availabilityWindows": [
+            {
+              "endTime": "18:00:00",
+              "startTime": "08:00:00"
+            }
+          ],
+          "startTime": "04.11.2016 11:02:15",
+          "areaId": "267",
+          "taskNumber": "BGUф0000094914",
+          "lon": 30.872848,
+          "distance": 1321,
+          "arrivalTime": "04.11.2016 11:05:45",
+          "taskNumberSystem": "000840290 ",
+          "endTime": "04.11.2016 11:13:59",
+          "startWaypointId": "6917",
+          "downTime": 0,
+          "taskTime": 494
+        },
+        {
+          "waypointId": "9276",
+          "volume": 0,
+          "travelTime": 200,
+          "taskDate": "18.09.2014",
+          "value": 766.18,
+          "lat": 49.534389,
+          "number": 10,
+          "weight": 21.98,
+          "availabilityWindows": [
+            {
+              "endTime": "15:00:00",
+              "startTime": "08:00:00"
+            }
+          ],
+          "startTime": "04.11.2016 11:13:59",
+          "areaId": "267",
+          "taskNumber": "BGUБГЮ00038129",
+          "lon": 30.880328,
+          "distance": 1197,
+          "arrivalTime": "04.11.2016 11:17:19",
+          "taskNumberSystem": "000840288 ",
+          "endTime": "04.11.2016 11:36:09",
+          "startWaypointId": "1909",
+          "downTime": 0,
+          "taskTime": 1130
+        },
+        {
+          "waypointId": "708",
+          "volume": 0,
+          "travelTime": 171,
+          "taskDate": "18.09.2014",
+          "value": 286.85,
+          "lat": 49.537067,
+          "number": 11,
+          "weight": 8.26,
+          "availabilityWindows": [
+            {
+              "endTime": "18:00:00",
+              "startTime": "08:00:00"
+            }
+          ],
+          "startTime": "04.11.2016 11:36:09",
+          "areaId": "267",
+          "taskNumber": "BGUБГЮ00038135",
+          "lon": 30.86802,
+          "distance": 1298,
+          "arrivalTime": "04.11.2016 11:39:00",
+          "taskNumberSystem": "000840286 ",
+          "endTime": "04.11.2016 11:46:22",
+          "startWaypointId": "9276",
+          "downTime": 0,
+          "taskTime": 442
+        },
+        {
+          "waypointId": "8830",
+          "volume": 0,
+          "travelTime": 78,
+          "taskDate": "18.09.2014",
+          "value": 78.68,
+          "lat": 49.538642,
+          "number": 12,
+          "weight": 0,
+          "availabilityWindows": [
+            {
+              "endTime": "18:00:00",
+              "startTime": "08:00:00"
+            }
+          ],
+          "startTime": "04.11.2016 11:46:22",
+          "areaId": "267",
+          "taskNumber": "BGUф0000094917",
+          "lon": 30.865058,
+          "distance": 480,
+          "arrivalTime": "04.11.2016 11:47:40",
+          "taskNumberSystem": "000840287 ",
+          "endTime": "04.11.2016 11:47:57",
+          "startWaypointId": "708",
+          "downTime": 0,
+          "taskTime": 17
+        },
+        {
+          "waypointId": "8830",
+          "volume": 0,
+          "travelTime": 0,
+          "taskDate": "18.09.2014",
+          "value": 631.45,
+          "lat": 49.538642,
+          "number": 13,
+          "weight": 13.885,
+          "availabilityWindows": [
+            {
+              "endTime": "18:00:00",
+              "startTime": "08:00:00"
+            }
+          ],
+          "startTime": "04.11.2016 11:47:57",
+          "areaId": "267",
+          "taskNumber": "BGUф0000094916",
+          "lon": 30.865058,
+          "distance": 1,
+          "arrivalTime": "04.11.2016 11:47:57",
+          "taskNumberSystem": "000840289 ",
+          "endTime": "04.11.2016 11:56:54",
+          "startWaypointId": "8830",
+          "downTime": 0,
+          "taskTime": 537
+        },
+        {
+          "waypointId": "2021",
+          "volume": 0,
+          "travelTime": 554,
+          "taskDate": "18.09.2014",
+          "value": 229.25,
+          "lat": 49.57022,
+          "number": 14,
+          "weight": 6.025,
+          "availabilityWindows": [
+            {
+              "endTime": "18:00:00",
+              "startTime": "08:00:00"
+            }
+          ],
+          "startTime": "04.11.2016 11:56:54",
+          "areaId": "268",
+          "taskNumber": "BGUф0000094924",
+          "lon": 30.810694,
+          "distance": 6428,
+          "arrivalTime": "04.11.2016 12:06:08",
+          "taskNumberSystem": "000840301 ",
+          "endTime": "04.11.2016 12:14:58",
+          "startWaypointId": "8830",
+          "downTime": 0,
+          "taskTime": 530
+        },
+        {
+          "waypointId": "11312",
+          "volume": 0,
+          "travelTime": 64,
+          "taskDate": "18.09.2014",
+          "value": 272.39,
+          "lat": 49.571227,
+          "number": 15,
+          "weight": 9.028,
+          "availabilityWindows": [
+            {
+              "endTime": "18:00:00",
+              "startTime": "08:00:00"
+            }
+          ],
+          "startTime": "04.11.2016 12:14:58",
+          "areaId": "267",
+          "taskNumber": "BGUф0000094909",
+          "lon": 30.807338,
+          "distance": 463,
+          "arrivalTime": "04.11.2016 12:16:02",
+          "taskNumberSystem": "000840292 ",
+          "endTime": "04.11.2016 12:24:25",
+          "startWaypointId": "2021",
+          "downTime": 0,
+          "taskTime": 503
+        },
+        {
+          "waypointId": "6821",
+          "volume": 0,
+          "travelTime": 516,
+          "taskDate": "18.09.2014",
+          "value": 7541.58,
+          "lat": 49.541558,
+          "number": 16,
+          "weight": 173.622,
+          "availabilityWindows": [
+            {
+              "endTime": "18:00:00",
+              "startTime": "08:00:00"
+            }
+          ],
+          "startTime": "04.11.2016 12:24:25",
+          "areaId": "268",
+          "taskNumber": "BGUБГЮ00038114",
+          "lon": 30.789828,
+          "distance": 4205,
+          "arrivalTime": "04.11.2016 12:33:01",
+          "taskNumberSystem": "000840297 ",
+          "endTime": "04.11.2016 12:43:37",
+          "startWaypointId": "11312",
+          "downTime": 0,
+          "taskTime": 636
+        },
+        {
+          "waypointId": "11677",
+          "volume": 0,
+          "travelTime": 11,
+          "taskDate": "18.09.2014",
+          "value": 201.35,
+          "lat": 49.541667,
+          "number": 17,
+          "weight": 6.505,
+          "availabilityWindows": [
+            {
+              "endTime": "18:00:00",
+              "startTime": "08:00:00"
+            }
+          ],
+          "startTime": "04.11.2016 12:43:37",
+          "areaId": "268",
+          "taskNumber": "BGUф0000094906",
+          "lon": 30.788333,
+          "distance": 321,
+          "arrivalTime": "04.11.2016 12:43:48",
+          "taskNumberSystem": "000840298 ",
+          "endTime": "04.11.2016 12:52:39",
+          "startWaypointId": "6821",
+          "downTime": 0,
+          "taskTime": 531
+        },
+        {
+          "waypointId": "9256",
+          "volume": 0,
+          "travelTime": 2057,
+          "taskDate": "18.09.2014",
+          "value": 223.76,
+          "lat": 49.423229,
+          "number": 18,
+          "weight": 6.215,
+          "availabilityWindows": [
+            {
+              "endTime": "18:00:00",
+              "startTime": "08:00:00"
+            }
+          ],
+          "startTime": "04.11.2016 12:52:39",
+          "areaId": "268",
+          "taskNumber": "BGUф0000094945",
+          "lon": 30.863342,
+          "distance": 18761,
+          "arrivalTime": "04.11.2016 13:26:56",
+          "taskNumberSystem": "000840300 ",
+          "endTime": "04.11.2016 13:35:01",
+          "startWaypointId": "11677",
+          "downTime": 0,
+          "taskTime": 485
+        },
+        {
+          "waypointId": "2971",
+          "volume": 0,
+          "travelTime": 1447,
+          "taskDate": "18.09.2014",
+          "value": 261.54,
+          "lat": 49.390278,
+          "number": 19,
+          "weight": 8.258,
+          "availabilityWindows": [
+            {
+              "endTime": "18:00:00",
+              "startTime": "08:00:00"
+            }
+          ],
+          "startTime": "04.11.2016 13:35:01",
+          "areaId": "268",
+          "taskNumber": "BGUф0000094904",
+          "lon": 30.784722,
+          "distance": 9958,
+          "arrivalTime": "04.11.2016 13:59:08",
+          "taskNumberSystem": "000840296 ",
+          "endTime": "04.11.2016 14:07:15",
+          "startWaypointId": "9256",
+          "downTime": 0,
+          "taskTime": 487
+        },
+        {
+          "waypointId": "4758",
+          "volume": 0,
+          "travelTime": 0,
+          "taskDate": "18.09.2014",
+          "value": 592.51,
+          "lat": 49.390278,
+          "number": 20,
+          "weight": 16.854,
+          "availabilityWindows": [
+            {
+              "endTime": "18:00:00",
+              "startTime": "08:00:00"
+            }
+          ],
+          "startTime": "04.11.2016 14:07:15",
+          "areaId": "268",
+          "taskNumber": "BGUф0000094912",
+          "lon": 30.784722,
+          "distance": 0,
+          "arrivalTime": "04.11.2016 14:07:15",
+          "taskNumberSystem": "000840299 ",
+          "endTime": "04.11.2016 14:17:00",
+          "startWaypointId": "2971",
+          "downTime": 0,
+          "taskTime": 585
+        },
+        {
+          "waypointId": "9641",
+          "volume": 0,
+          "travelTime": 1528,
+          "taskDate": "18.09.2014",
+          "value": 64.27,
+          "lat": 49.484167,
+          "number": 21,
+          "weight": 0,
+          "availabilityWindows": [
+            {
+              "endTime": "18:00:00",
+              "startTime": "08:00:00"
+            }
+          ],
+          "startTime": "04.11.2016 14:17:00",
+          "areaId": "268",
+          "taskNumber": "BGUф0000094903",
+          "lon": 30.622778,
+          "distance": 19473,
+          "arrivalTime": "04.11.2016 14:42:28",
+          "taskNumberSystem": "000840295 ",
+          "endTime": "04.11.2016 14:42:59",
+          "startWaypointId": "4758",
+          "downTime": 0,
+          "taskTime": 31
+        },
+        {
+          "waypointId": "9641",
+          "volume": 0,
+          "travelTime": 0,
+          "taskDate": "18.09.2014",
+          "value": 553.76,
+          "lat": 49.484167,
+          "number": 22,
+          "weight": 12.771,
+          "availabilityWindows": [
+            {
+              "endTime": "18:00:00",
+              "startTime": "08:00:00"
+            }
+          ],
+          "startTime": "04.11.2016 14:42:59",
+          "areaId": "268",
+          "taskNumber": "BGUф0000094902",
+          "lon": 30.622778,
+          "distance": 5,
+          "arrivalTime": "04.11.2016 14:42:59",
+          "taskNumberSystem": "000840294 ",
+          "endTime": "04.11.2016 14:52:10",
+          "startWaypointId": "9641",
+          "downTime": 0,
+          "taskTime": 551
+        },
+        {
+          "waypointId": "4753",
+          "volume": 0,
+          "travelTime": 0,
+          "taskDate": "18.09.2014",
+          "value": 69,
+          "lat": 49.484167,
+          "number": 23,
+          "weight": 0,
+          "availabilityWindows": [
+            {
+              "endTime": "18:00:00",
+              "startTime": "08:00:00"
+            }
+          ],
+          "startTime": "04.11.2016 14:52:10",
+          "areaId": "376",
+          "taskNumber": "BGUф0000094921",
+          "lon": 30.622778,
+          "distance": 5,
+          "arrivalTime": "04.11.2016 14:52:10",
+          "taskNumberSystem": "000840452 ",
+          "endTime": "04.11.2016 14:52:41",
+          "startWaypointId": "9641",
+          "downTime": 0,
+          "taskTime": 31
+        },
+        {
+          "waypointId": "4753",
+          "volume": 0,
+          "travelTime": 0,
+          "taskDate": "18.09.2014",
+          "value": 393.77,
+          "lat": 49.484167,
+          "number": 24,
+          "weight": 12.15,
+          "availabilityWindows": [
+            {
+              "endTime": "18:00:00",
+              "startTime": "08:00:00"
+            }
+          ],
+          "startTime": "04.11.2016 14:52:41",
+          "areaId": "376",
+          "taskNumber": "BGUф0000094920",
+          "lon": 30.622778,
+          "distance": 5,
+          "arrivalTime": "04.11.2016 14:52:41",
+          "taskNumberSystem": "000840451 ",
+          "endTime": "04.11.2016 15:01:52",
+          "startWaypointId": "4753",
+          "downTime": 0,
+          "taskTime": 551
+        },
+        {
+          "waypointId": "342",
+          "volume": 0,
+          "travelTime": 3392,
+          "taskDate": "18.09.2014",
+          "value": 33.36,
+          "lat": 49.773158,
+          "number": 25,
+          "weight": 0.8,
+          "availabilityWindows": [
+            {
+              "endTime": "18:00:00",
+              "startTime": "08:00:00"
+            }
+          ],
+          "startTime": "04.11.2016 15:01:52",
+          "areaId": "251",
+          "taskNumber": "BGUф0000094927",
+          "lon": 30.123074,
+          "distance": 52180,
+          "arrivalTime": "04.11.2016 15:58:24",
+          "taskNumberSystem": "000840258 ",
+          "endTime": "04.11.2016 15:58:39",
+          "startWaypointId": "4753",
+          "downTime": 0,
+          "taskTime": 15
+        },
+        {
+          "waypointId": "342",
+          "volume": 0,
+          "travelTime": 0,
+          "taskDate": "18.09.2014",
+          "value": 340.58,
+          "lat": 49.773158,
+          "number": 26,
+          "weight": 7.87,
+          "availabilityWindows": [
+            {
+              "endTime": "18:00:00",
+              "startTime": "08:00:00"
+            }
+          ],
+          "startTime": "04.11.2016 15:58:39",
+          "areaId": "251",
+          "taskNumber": "BGUф0000094845",
+          "lon": 30.123074,
+          "distance": 7,
+          "arrivalTime": "04.11.2016 15:58:39",
+          "taskNumberSystem": "000840260 ",
+          "endTime": "04.11.2016 16:03:00",
+          "startWaypointId": "342",
+          "downTime": 0,
+          "taskTime": 261
+        },
+        {
+          "waypointId": "342",
+          "volume": 0,
+          "travelTime": 0,
+          "taskDate": "18.09.2014",
+          "value": 422.15,
+          "lat": 49.773158,
+          "number": 27,
+          "weight": 15.494,
+          "availabilityWindows": [
+            {
+              "endTime": "18:00:00",
+              "startTime": "08:00:00"
+            }
+          ],
+          "startTime": "04.11.2016 16:03:00",
+          "areaId": "251",
+          "taskNumber": "LogisФ0000127825",
+          "lon": 30.123074,
+          "distance": 7,
+          "arrivalTime": "04.11.2016 16:03:00",
+          "taskNumberSystem": "000840491 ",
+          "endTime": "04.11.2016 16:14:44",
+          "startWaypointId": "342",
+          "downTime": 0,
+          "taskTime": 704
+        },
+        {
+          "waypointId": "11962",
+          "volume": 0,
+          "travelTime": 56,
+          "taskDate": "18.09.2014",
+          "value": 320.16,
+          "lat": 49.777357,
+          "number": 28,
+          "weight": 10.71,
+          "availabilityWindows": [
+            {
+              "endTime": "18:00:00",
+              "startTime": "08:00:00"
+            }
+          ],
+          "startTime": "04.11.2016 16:14:44",
+          "areaId": "251",
+          "taskNumber": "BGUф0000094907",
+          "lon": 30.119523,
+          "distance": 818,
+          "arrivalTime": "04.11.2016 16:15:40",
+          "taskNumberSystem": "000840256 ",
+          "endTime": "04.11.2016 16:26:49",
+          "startWaypointId": "342",
+          "downTime": 0,
+          "taskTime": 669
+        },
+        {
+          "waypointId": "1510",
+          "volume": 0,
+          "travelTime": 204,
+          "taskDate": "18.09.2014",
+          "value": 121.8,
+          "lat": 49.786169,
+          "number": 29,
+          "weight": 2,
+          "availabilityWindows": [
+            {
+              "endTime": "18:00:00",
+              "startTime": "08:00:00"
+            }
+          ],
+          "startTime": "04.11.2016 16:26:49",
+          "areaId": "253",
+          "taskNumber": "BGUф0000094814",
+          "lon": 30.12664,
+          "distance": 1820,
+          "arrivalTime": "04.11.2016 16:30:13",
+          "taskNumberSystem": "000840276 ",
+          "endTime": "04.11.2016 16:37:30",
+          "startWaypointId": "11962",
+          "downTime": 0,
+          "taskTime": 437
+        },
+        {
+          "waypointId": "12967",
+          "volume": 0,
+          "travelTime": 118,
+          "taskDate": "18.09.2014",
+          "value": 258.05,
+          "lat": 49.783904,
+          "number": 30,
+          "weight": 12.924,
+          "availabilityWindows": [
+            {
+              "endTime": "17:59:00",
+              "startTime": "08:00:00"
+            }
+          ],
+          "startTime": "04.11.2016 16:37:30",
+          "areaId": "252",
+          "taskNumber": "BGUф0000094825",
+          "lon": 30.128921,
+          "distance": 763,
+          "arrivalTime": "04.11.2016 16:39:28",
+          "taskNumberSystem": "000840261 ",
+          "endTime": "04.11.2016 16:52:39",
+          "startWaypointId": "1510",
+          "downTime": 0,
+          "taskTime": 791
+        },
+        {
+          "waypointId": "3599",
+          "volume": 0,
+          "travelTime": 417,
+          "taskDate": "18.09.2014",
+          "value": 462.7,
+          "lat": 49.778881,
+          "number": 31,
+          "weight": 16.25,
+          "availabilityWindows": [
+            {
+              "endTime": "18:00:00",
+              "startTime": "08:00:00"
+            }
+          ],
+          "startTime": "04.11.2016 16:52:39",
+          "areaId": "252",
+          "taskNumber": "BGUф0000094816",
+          "lon": 30.158598,
+          "distance": 2518,
+          "arrivalTime": "04.11.2016 16:59:36",
+          "taskNumberSystem": "000840263 ",
+          "endTime": "04.11.2016 17:14:50",
+          "startWaypointId": "12967",
+          "downTime": 0,
+          "taskTime": 914
+        },
+        {
+          "waypointId": "2734",
+          "volume": 0,
+          "travelTime": 78,
+          "taskDate": "18.09.2014",
+          "value": 247.27,
+          "lat": 49.777709,
+          "number": 32,
+          "weight": 11.92,
+          "availabilityWindows": [
+            {
+              "endTime": "18:00:00",
+              "startTime": "08:00:00"
+            }
+          ],
+          "startTime": "04.11.2016 17:14:50",
+          "areaId": "252",
+          "taskNumber": "BGUф0000094818",
+          "lon": 30.160607,
+          "distance": 183,
+          "arrivalTime": "04.11.2016 17:16:08",
+          "taskNumberSystem": "000840264 ",
+          "endTime": "04.11.2016 17:27:03",
+          "startWaypointId": "3599",
+          "downTime": 0,
+          "taskTime": 655
+        },
+        {
+          "waypointId": "13247",
+          "volume": 0,
+          "travelTime": 525,
+          "taskDate": "18.09.2014",
+          "value": 303.49,
+          "lat": 49.784881,
+          "number": 33,
+          "weight": 14.22,
+          "availabilityWindows": [
+            {
+              "endTime": "17:59:00",
+              "startTime": "08:00:00"
+            }
+          ],
+          "startTime": "04.11.2016 17:27:03",
+          "areaId": "252",
+          "taskNumber": "BGUф0000094823",
+          "lon": 30.153142,
+          "distance": 3293,
+          "arrivalTime": "04.11.2016 17:35:48",
+          "taskNumberSystem": "000840265 ",
+          "endTime": "04.11.2016 17:48:00",
+          "startWaypointId": "2734",
+          "downTime": 0,
+          "taskTime": 732
+        },
+        {
+          "waypointId": "4982",
+          "volume": 0,
+          "travelTime": 282,
+          "taskDate": "18.09.2014",
+          "value": 146.16,
+          "lat": 49.786032,
+          "number": 34,
+          "weight": 2.4,
+          "availabilityWindows": [
+            {
+              "endTime": "18:00:00",
+              "startTime": "08:00:00"
+            }
+          ],
+          "startTime": "04.11.2016 17:48:00",
+          "areaId": "253",
+          "taskNumber": "BGUф0000094813",
+          "lon": 30.132043,
+          "distance": 2141,
+          "arrivalTime": "04.11.2016 17:52:42",
+          "taskNumberSystem": "000840275 ",
+          "endTime": "04.11.2016 17:59:59",
+          "startWaypointId": "13247",
+          "downTime": 0,
+          "taskTime": 437
+        },
+        {
+          "waypointId": "",
+          "volume": 0,
+          "travelTime": 4921,
+          "taskDate": "",
+          "value": 0,
+          "lat": 50.450865,
+          "number": 35,
+          "weight": 0,
+          "availabilityWindows": [
+            {
+              "endTime": "18:00:00",
+              "startTime": "08:00:00"
+            }
+          ],
+          "startTime": "04.11.2016 17:59:59",
+          "areaId": "",
+          "taskNumber": "",
+          "lon": 30.3553,
+          "distance": 83760,
+          "arrivalTime": "04.11.2016 19:22:00",
+          "taskNumberSystem": "",
+          "endTime": "04.11.2016 19:22:00",
+          "startWaypointId": "4982",
+          "downTime": 0,
+          "taskTime": 0
+        }
+      ],
+      "time": 46394
+    }
