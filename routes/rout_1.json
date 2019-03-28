@@ -1,0 +1,716 @@
+{
+      "id": "2",
+      "value": 804,
+      "driver": "100201",
+      "number": 1,
+      "startTime": "26.03.2019 07:51:29",
+      "numberOfTask": 24,
+      "transport": "7000147",
+      "distance": 131219,
+      "endTime": "26.03.2019 19:16:28",
+      "sections": [
+        {
+          "waypointId": "",
+          "volume": 0,
+          "travelTime": 0,
+          "taskDate": "",
+          "value": 0,
+          "lat": 50.450865,
+          "number": 1,
+          "weight": 0,
+          "availabilityWindows": [
+            {
+              "endTime": "18:00:00",
+              "startTime": "08:00:00"
+            }
+          ],
+          "startTime": "26.03.2019 07:51:29",
+          "areaId": "",
+          "taskNumber": "",
+          "lon": 30.3553,
+          "distance": 0,
+          "arrivalTime": "26.03.2019 07:51:29",
+          "taskNumberSystem": "",
+          "endTime": "26.03.2019 08:01:29",
+          "startWaypointId": "",
+          "downTime": 0,
+          "taskTime": 600
+        },
+        {
+          "waypointId": "test_tt145",
+          "volume": 0,
+          "travelTime": 5101,
+          "taskDate": "02.05.2018",
+          "value": 0,
+          "lat": 50.401924,
+          "number": 2,
+          "weight": 1,
+          "availabilityWindows": [
+            {
+              "endTime": "11:00:00",
+              "startTime": "09:00:00"
+            }
+          ],
+          "startTime": "26.03.2019 08:01:29",
+          "areaId": "",
+          "taskNumber": "98742922989",
+          "lon": 30.559033,
+          "distance": 20449,
+          "arrivalTime": "26.03.2019 09:26:30",
+          "taskNumberSystem": "006126047 ",
+          "endTime": "26.03.2019 09:34:30",
+          "startWaypointId": "",
+          "downTime": 0,
+          "taskTime": 480
+        },
+        {
+          "waypointId": "test_tt152",
+          "volume": 0,
+          "travelTime": 311,
+          "taskDate": "02.05.2018",
+          "value": 0,
+          "lat": 50.400639,
+          "number": 3,
+          "weight": 1,
+          "availabilityWindows": [
+            {
+              "endTime": "11:00:00",
+              "startTime": "09:00:00"
+            }
+          ],
+          "startTime": "26.03.2019 09:34:30",
+          "areaId": "",
+          "taskNumber": "98742922996",
+          "lon": 30.564299,
+          "distance": 1041,
+          "arrivalTime": "26.03.2019 09:39:41",
+          "taskNumberSystem": "006126054 ",
+          "endTime": "26.03.2019 09:47:41",
+          "startWaypointId": "test_tt145",
+          "downTime": 0,
+          "taskTime": 480
+        },
+        {
+          "waypointId": "test_tt9",
+          "volume": 0,
+          "travelTime": 1925,
+          "taskDate": "02.05.2018",
+          "value": 0,
+          "lat": 50.455326,
+          "number": 4,
+          "weight": 1,
+          "availabilityWindows": [
+            {
+              "endTime": "12:00:00",
+              "startTime": "10:00:00"
+            }
+          ],
+          "startTime": "26.03.2019 09:47:41",
+          "areaId": "",
+          "taskNumber": "98742922853",
+          "lon": 30.619072,
+          "distance": 9613,
+          "arrivalTime": "26.03.2019 10:19:46",
+          "taskNumberSystem": "006125911 ",
+          "endTime": "26.03.2019 10:27:46",
+          "startWaypointId": "test_tt152",
+          "downTime": 0,
+          "taskTime": 480
+        },
+        {
+          "waypointId": "test_tt131",
+          "volume": 0,
+          "travelTime": 1454,
+          "taskDate": "02.05.2018",
+          "value": 0,
+          "lat": 50.412019,
+          "number": 5,
+          "weight": 1,
+          "availabilityWindows": [
+            {
+              "endTime": "11:00:00",
+              "startTime": "09:00:00"
+            }
+          ],
+          "startTime": "26.03.2019 10:27:46",
+          "areaId": "",
+          "taskNumber": "98742922975",
+          "lon": 30.644346,
+          "distance": 6411,
+          "arrivalTime": "26.03.2019 10:52:00",
+          "taskNumberSystem": "006126033 ",
+          "endTime": "26.03.2019 11:00:00",
+          "startWaypointId": "test_tt9",
+          "downTime": 0,
+          "taskTime": 480
+        },
+        {
+          "waypointId": "test_tt177",
+          "volume": 0,
+          "travelTime": 256,
+          "taskDate": "02.05.2018",
+          "value": 0,
+          "lat": 50.425288,
+          "number": 6,
+          "weight": 1,
+          "availabilityWindows": [
+            {
+              "endTime": "12:00:00",
+              "startTime": "10:00:00"
+            }
+          ],
+          "startTime": "26.03.2019 11:00:00",
+          "areaId": "",
+          "taskNumber": "98742923021",
+          "lon": 30.654272,
+          "distance": 2511,
+          "arrivalTime": "26.03.2019 11:04:16",
+          "taskNumberSystem": "006126079 ",
+          "endTime": "26.03.2019 11:12:16",
+          "startWaypointId": "test_tt131",
+          "downTime": 0,
+          "taskTime": 480
+        },
+        {
+          "waypointId": "test_tt173",
+          "volume": 0,
+          "travelTime": 966,
+          "taskDate": "02.05.2018",
+          "value": 0,
+          "lat": 50.394832,
+          "number": 7,
+          "weight": 1,
+          "availabilityWindows": [
+            {
+              "endTime": "12:00:00",
+              "startTime": "10:00:00"
+            }
+          ],
+          "startTime": "26.03.2019 11:12:16",
+          "areaId": "",
+          "taskNumber": "98742923017",
+          "lon": 30.620157,
+          "distance": 5793,
+          "arrivalTime": "26.03.2019 11:28:22",
+          "taskNumberSystem": "006126075 ",
+          "endTime": "26.03.2019 11:36:22",
+          "startWaypointId": "test_tt177",
+          "downTime": 0,
+          "taskTime": 480
+        },
+        {
+          "waypointId": "test_tt83",
+          "volume": 0,
+          "travelTime": 408,
+          "taskDate": "02.05.2018",
+          "value": 0,
+          "lat": 50.395249,
+          "number": 8,
+          "weight": 1,
+          "availabilityWindows": [
+            {
+              "endTime": "14:00:00",
+              "startTime": "12:00:00"
+            }
+          ],
+          "startTime": "26.03.2019 11:36:22",
+          "areaId": "",
+          "taskNumber": "98742922927",
+          "lon": 30.641759,
+          "distance": 2265,
+          "arrivalTime": "26.03.2019 12:00:00",
+          "taskNumberSystem": "006125985 ",
+          "endTime": "26.03.2019 12:08:00",
+          "startWaypointId": "test_tt173",
+          "downTime": 1010,
+          "taskTime": 480
+        },
+        {
+          "waypointId": "test_tt32",
+          "volume": 0,
+          "travelTime": 1203,
+          "taskDate": "02.05.2018",
+          "value": 0,
+          "lat": 50.385177,
+          "number": 9,
+          "weight": 1,
+          "availabilityWindows": [
+            {
+              "endTime": "14:00:00",
+              "startTime": "12:00:00"
+            }
+          ],
+          "startTime": "26.03.2019 12:08:00",
+          "areaId": "",
+          "taskNumber": "98742922876",
+          "lon": 30.684738,
+          "distance": 5568,
+          "arrivalTime": "26.03.2019 12:28:03",
+          "taskNumberSystem": "006125934 ",
+          "endTime": "26.03.2019 12:36:03",
+          "startWaypointId": "test_tt83",
+          "downTime": 0,
+          "taskTime": 480
+        },
+        {
+          "waypointId": "test_tt120",
+          "volume": 0,
+          "travelTime": 1894,
+          "taskDate": "02.05.2018",
+          "value": 0,
+          "lat": 50.442367,
+          "number": 10,
+          "weight": 1,
+          "availabilityWindows": [
+            {
+              "endTime": "15:00:00",
+              "startTime": "13:00:00"
+            }
+          ],
+          "startTime": "26.03.2019 12:36:03",
+          "areaId": "",
+          "taskNumber": "98742922964",
+          "lon": 30.632319,
+          "distance": 10429,
+          "arrivalTime": "26.03.2019 13:07:37",
+          "taskNumberSystem": "006126022 ",
+          "endTime": "26.03.2019 13:15:37",
+          "startWaypointId": "test_tt32",
+          "downTime": 0,
+          "taskTime": 480
+        },
+        {
+          "waypointId": "test_tt136",
+          "volume": 0,
+          "travelTime": 291,
+          "taskDate": "02.05.2018",
+          "value": 0,
+          "lat": 50.458904,
+          "number": 11,
+          "weight": 1,
+          "availabilityWindows": [
+            {
+              "endTime": "14:00:00",
+              "startTime": "12:00:00"
+            }
+          ],
+          "startTime": "26.03.2019 13:15:37",
+          "areaId": "",
+          "taskNumber": "98742922980",
+          "lon": 30.631202,
+          "distance": 2377,
+          "arrivalTime": "26.03.2019 13:20:28",
+          "taskNumberSystem": "006126038 ",
+          "endTime": "26.03.2019 13:28:28",
+          "startWaypointId": "test_tt120",
+          "downTime": 0,
+          "taskTime": 480
+        },
+        {
+          "waypointId": "test_tt186",
+          "volume": 0,
+          "travelTime": 1522,
+          "taskDate": "02.05.2018",
+          "value": 0,
+          "lat": 50.41213,
+          "number": 12,
+          "weight": 1,
+          "availabilityWindows": [
+            {
+              "endTime": "16:00:00",
+              "startTime": "14:00:00"
+            }
+          ],
+          "startTime": "26.03.2019 13:28:28",
+          "areaId": "",
+          "taskNumber": "98742923030",
+          "lon": 30.665944,
+          "distance": 7569,
+          "arrivalTime": "26.03.2019 14:00:00",
+          "taskNumberSystem": "006126088 ",
+          "endTime": "26.03.2019 14:08:00",
+          "startWaypointId": "test_tt136",
+          "downTime": 370,
+          "taskTime": 480
+        },
+        {
+          "waypointId": "test_tt40",
+          "volume": 0,
+          "travelTime": 756,
+          "taskDate": "02.05.2018",
+          "value": 0,
+          "lat": 50.398404,
+          "number": 13,
+          "weight": 1,
+          "availabilityWindows": [
+            {
+              "endTime": "16:00:00",
+              "startTime": "14:00:00"
+            }
+          ],
+          "startTime": "26.03.2019 14:08:00",
+          "areaId": "",
+          "taskNumber": "98742922884",
+          "lon": 30.648684,
+          "distance": 3428,
+          "arrivalTime": "26.03.2019 14:20:36",
+          "taskNumberSystem": "006125942 ",
+          "endTime": "26.03.2019 14:28:36",
+          "startWaypointId": "test_tt186",
+          "downTime": 0,
+          "taskTime": 480
+        },
+        {
+          "waypointId": "test_tt92",
+          "volume": 0,
+          "travelTime": 587,
+          "taskDate": "02.05.2018",
+          "value": 0,
+          "lat": 50.408114,
+          "number": 14,
+          "weight": 1,
+          "availabilityWindows": [
+            {
+              "endTime": "16:00:00",
+              "startTime": "14:00:00"
+            }
+          ],
+          "startTime": "26.03.2019 14:28:36",
+          "areaId": "",
+          "taskNumber": "98742922936",
+          "lon": 30.639867,
+          "distance": 3041,
+          "arrivalTime": "26.03.2019 14:38:23",
+          "taskNumberSystem": "006125994 ",
+          "endTime": "26.03.2019 14:46:23",
+          "startWaypointId": "test_tt40",
+          "downTime": 0,
+          "taskTime": 480
+        },
+        {
+          "waypointId": "test_tt78",
+          "volume": 0,
+          "travelTime": 23,
+          "taskDate": "02.05.2018",
+          "value": 0,
+          "lat": 50.40895,
+          "number": 15,
+          "weight": 1,
+          "availabilityWindows": [
+            {
+              "endTime": "16:00:00",
+              "startTime": "14:00:00"
+            }
+          ],
+          "startTime": "26.03.2019 14:46:23",
+          "areaId": "",
+          "taskNumber": "98742922922",
+          "lon": 30.637833,
+          "distance": 161,
+          "arrivalTime": "26.03.2019 14:46:46",
+          "taskNumberSystem": "006125980 ",
+          "endTime": "26.03.2019 14:54:46",
+          "startWaypointId": "test_tt92",
+          "downTime": 0,
+          "taskTime": 480
+        },
+        {
+          "waypointId": "test_tt100",
+          "volume": 0,
+          "travelTime": 188,
+          "taskDate": "02.05.2018",
+          "value": 0,
+          "lat": 50.402977,
+          "number": 16,
+          "weight": 1,
+          "availabilityWindows": [
+            {
+              "endTime": "17:00:00",
+              "startTime": "15:00:00"
+            }
+          ],
+          "startTime": "26.03.2019 14:54:46",
+          "areaId": "",
+          "taskNumber": "98742922944",
+          "lon": 30.635306,
+          "distance": 1081,
+          "arrivalTime": "26.03.2019 15:00:00",
+          "taskNumberSystem": "006126002 ",
+          "endTime": "26.03.2019 15:08:00",
+          "startWaypointId": "test_tt78",
+          "downTime": 126,
+          "taskTime": 480
+        },
+        {
+          "waypointId": "test_tt172",
+          "volume": 0,
+          "travelTime": 369,
+          "taskDate": "02.05.2018",
+          "value": 0,
+          "lat": 50.391925,
+          "number": 17,
+          "weight": 1,
+          "availabilityWindows": [
+            {
+              "endTime": "17:00:00",
+              "startTime": "15:00:00"
+            }
+          ],
+          "startTime": "26.03.2019 15:08:00",
+          "areaId": "",
+          "taskNumber": "98742923016",
+          "lon": 30.634275,
+          "distance": 2212,
+          "arrivalTime": "26.03.2019 15:14:09",
+          "taskNumberSystem": "006126074 ",
+          "endTime": "26.03.2019 15:22:09",
+          "startWaypointId": "test_tt100",
+          "downTime": 0,
+          "taskTime": 480
+        },
+        {
+          "waypointId": "test_tt34",
+          "volume": 0,
+          "travelTime": 698,
+          "taskDate": "02.05.2018",
+          "value": 0,
+          "lat": 50.403523,
+          "number": 18,
+          "weight": 1,
+          "availabilityWindows": [
+            {
+              "endTime": "16:00:00",
+              "startTime": "14:00:00"
+            }
+          ],
+          "startTime": "26.03.2019 15:22:09",
+          "areaId": "",
+          "taskNumber": "98742922878",
+          "lon": 30.616774,
+          "distance": 3030,
+          "arrivalTime": "26.03.2019 15:33:47",
+          "taskNumberSystem": "006125936 ",
+          "endTime": "26.03.2019 15:41:47",
+          "startWaypointId": "test_tt172",
+          "downTime": 0,
+          "taskTime": 480
+        },
+        {
+          "waypointId": "test_tt116",
+          "volume": 0,
+          "travelTime": 1385,
+          "taskDate": "02.05.2018",
+          "value": 0,
+          "lat": 50.45771,
+          "number": 19,
+          "weight": 1,
+          "availabilityWindows": [
+            {
+              "endTime": "18:00:00",
+              "startTime": "16:00:00"
+            }
+          ],
+          "startTime": "26.03.2019 15:41:47",
+          "areaId": "",
+          "taskNumber": "98742922960",
+          "lon": 30.613138,
+          "distance": 7998,
+          "arrivalTime": "26.03.2019 16:04:52",
+          "taskNumberSystem": "006126018 ",
+          "endTime": "26.03.2019 16:12:52",
+          "startWaypointId": "test_tt34",
+          "downTime": 0,
+          "taskTime": 480
+        },
+        {
+          "waypointId": "test_tt182",
+          "volume": 0,
+          "travelTime": 671,
+          "taskDate": "02.05.2018",
+          "value": 0,
+          "lat": 50.47417,
+          "number": 20,
+          "weight": 1,
+          "availabilityWindows": [
+            {
+              "endTime": "17:00:00",
+              "startTime": "15:00:00"
+            }
+          ],
+          "startTime": "26.03.2019 16:12:52",
+          "areaId": "",
+          "taskNumber": "98742923026",
+          "lon": 30.590389,
+          "distance": 3216,
+          "arrivalTime": "26.03.2019 16:24:03",
+          "taskNumberSystem": "006126084 ",
+          "endTime": "26.03.2019 16:32:03",
+          "startWaypointId": "test_tt116",
+          "downTime": 0,
+          "taskTime": 480
+        },
+        {
+          "waypointId": "test_tt75",
+          "volume": 0,
+          "travelTime": 1119,
+          "taskDate": "02.05.2018",
+          "value": 0,
+          "lat": 50.498956,
+          "number": 21,
+          "weight": 1,
+          "availabilityWindows": [
+            {
+              "endTime": "18:00:00",
+              "startTime": "16:00:00"
+            }
+          ],
+          "startTime": "26.03.2019 16:32:03",
+          "areaId": "",
+          "taskNumber": "98742922919",
+          "lon": 30.580164,
+          "distance": 4510,
+          "arrivalTime": "26.03.2019 16:50:42",
+          "taskNumberSystem": "006125977 ",
+          "endTime": "26.03.2019 16:58:42",
+          "startWaypointId": "test_tt182",
+          "downTime": 0,
+          "taskTime": 480
+        },
+        {
+          "waypointId": "test_tt160",
+          "volume": 0,
+          "travelTime": 817,
+          "taskDate": "02.05.2018",
+          "value": 0,
+          "lat": 50.507802,
+          "number": 22,
+          "weight": 1,
+          "availabilityWindows": [
+            {
+              "endTime": "19:00:00",
+              "startTime": "17:00:00"
+            }
+          ],
+          "startTime": "26.03.2019 16:58:42",
+          "areaId": "",
+          "taskNumber": "98742923004",
+          "lon": 30.609235,
+          "distance": 3550,
+          "arrivalTime": "26.03.2019 17:12:19",
+          "taskNumberSystem": "006126062 ",
+          "endTime": "26.03.2019 17:20:19",
+          "startWaypointId": "test_tt75",
+          "downTime": 0,
+          "taskTime": 480
+        },
+        {
+          "waypointId": "test_tt170",
+          "volume": 0,
+          "travelTime": 821,
+          "taskDate": "02.05.2018",
+          "value": 0,
+          "lat": 50.530096,
+          "number": 23,
+          "weight": 1,
+          "availabilityWindows": [
+            {
+              "endTime": "19:00:00",
+              "startTime": "17:00:00"
+            }
+          ],
+          "startTime": "26.03.2019 17:20:19",
+          "areaId": "",
+          "taskNumber": "98742923014",
+          "lon": 30.607697,
+          "distance": 3491,
+          "arrivalTime": "26.03.2019 17:34:00",
+          "taskNumberSystem": "006126072 ",
+          "endTime": "26.03.2019 17:42:00",
+          "startWaypointId": "test_tt160",
+          "downTime": 0,
+          "taskTime": 480
+        },
+        {
+          "waypointId": "test_tt141",
+          "volume": 0,
+          "travelTime": 218,
+          "taskDate": "02.05.2018",
+          "value": 0,
+          "lat": 50.527335,
+          "number": 24,
+          "weight": 1,
+          "availabilityWindows": [
+            {
+              "endTime": "18:00:00",
+              "startTime": "16:00:00"
+            }
+          ],
+          "startTime": "26.03.2019 17:42:00",
+          "areaId": "",
+          "taskNumber": "98742922985",
+          "lon": 30.599311,
+          "distance": 924,
+          "arrivalTime": "26.03.2019 17:45:38",
+          "taskNumberSystem": "006126043 ",
+          "endTime": "26.03.2019 17:53:38",
+          "startWaypointId": "test_tt170",
+          "downTime": 0,
+          "taskTime": 480
+        },
+        {
+          "waypointId": "test_tt17",
+          "volume": 0,
+          "travelTime": 2666,
+          "taskDate": "02.05.2018",
+          "value": 0,
+          "lat": 50.432925,
+          "number": 25,
+          "weight": 1,
+          "availabilityWindows": [
+            {
+              "endTime": "19:00:00",
+              "startTime": "17:00:00"
+            }
+          ],
+          "startTime": "26.03.2019 17:53:38",
+          "areaId": "",
+          "taskNumber": "98742922861",
+          "lon": 30.600779,
+          "distance": 13050,
+          "arrivalTime": "26.03.2019 18:38:04",
+          "taskNumberSystem": "006125919 ",
+          "endTime": "26.03.2019 18:46:04",
+          "startWaypointId": "test_tt141",
+          "downTime": 0,
+          "taskTime": 480
+        },
+        {
+          "waypointId": "",
+          "volume": 0,
+          "travelTime": 1824,
+          "taskDate": "",
+          "value": 0,
+          "lat": 50.40995,
+          "number": 26,
+          "weight": 0,
+          "availabilityWindows": [
+            {
+              "endTime": "18:00:00",
+              "startTime": "08:00:00"
+            }
+          ],
+          "startTime": "26.03.2019 18:46:04",
+          "areaId": "",
+          "taskNumber": "",
+          "lon": 30.550247,
+          "distance": 7501,
+          "arrivalTime": "26.03.2019 19:16:28",
+          "taskNumberSystem": "",
+          "endTime": "26.03.2019 19:16:28",
+          "startWaypointId": "test_tt17",
+          "downTime": 0,
+          "taskTime": 0
+        }
+      ],
+      "time": 41099
+    }
