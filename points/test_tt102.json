@@ -1,0 +1,39 @@
+{
+    "id": "test_tt102",
+    "name": "Кінцевий споживач 123-424",
+    "branch": "",
+    "type": "DeliveryPoint",
+    "address": "Україна,  м. Київ, Старосільська, буд. № 1,  ",
+    "lat": 50.473904,
+    "lon": 30.590302,
+    "area": "",
+    "availabilityWindows": [
+        {
+            "startTime": "09:00:00",
+            "endTime": "11:00:00"
+        }
+    ],
+    "contactPerson": "",
+    "contactPhone": "",
+    "strictWindow": false,
+    "taskDuration": "0",
+    "extraDurationForNewDriver": "0",
+    "penaltyValue": "0",
+    "penaltyCoefficient": "0",
+    "category": "",
+    "comment": "Україна,  м. Київ, Старосільська, буд. № 1",
+    "ramp": false,
+    "maxHeightOfTransport": "0",
+    "maxLengthOfTransport": "0",
+    "walkingTime": "0",
+    "receivingOnTrust": false,
+    "invoiceProcessingTime": "0",
+    "itemCheckingTime": "0",
+    "serveOnlyPallets": false,
+    "ignoreIncompatibilityGoods": false,
+    "ignoreIncompatibilityPallet": false,
+    "transportTemperatureControl": false,
+    "requirementRefrigerator": false,
+    "distanceToWarehouse": "0",
+    "distanceFromWarehouse": "0"
+}

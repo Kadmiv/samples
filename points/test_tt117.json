@@ -1,0 +1,39 @@
+{
+    "id": "test_tt117",
+    "name": "Кінцевий споживач 123-331",
+    "branch": "",
+    "type": "DeliveryPoint",
+    "address": "Україна,  м. Київ, Андрія Малишка (за Укрзолотом), буд. № 2,  ",
+    "lat": 50.457349,
+    "lon": 30.612579,
+    "area": "",
+    "availabilityWindows": [
+        {
+            "startTime": "10:00:00",
+            "endTime": "12:00:00"
+        }
+    ],
+    "contactPerson": "",
+    "contactPhone": "",
+    "strictWindow": false,
+    "taskDuration": "0",
+    "extraDurationForNewDriver": "0",
+    "penaltyValue": "0",
+    "penaltyCoefficient": "0",
+    "category": "",
+    "comment": "Україна,  м. Київ, Андрія Малишка (за Укрзолотом), буд. № 2",
+    "ramp": false,
+    "maxHeightOfTransport": "0",
+    "maxLengthOfTransport": "0",
+    "walkingTime": "0",
+    "receivingOnTrust": false,
+    "invoiceProcessingTime": "0",
+    "itemCheckingTime": "0",
+    "serveOnlyPallets": false,
+    "ignoreIncompatibilityGoods": false,
+    "ignoreIncompatibilityPallet": false,
+    "transportTemperatureControl": false,
+    "requirementRefrigerator": false,
+    "distanceToWarehouse": "0",
+    "distanceFromWarehouse": "0"
+}

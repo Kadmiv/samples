@@ -1,0 +1,31 @@
+{
+    "number": "98742922916",
+    "date": "02.05.2018 00:00:00",
+    "branch": "",
+    "type": "DELIVERY",
+    "status": "CREATED",
+    "priority": "0",
+    "warehouse": "",
+    "deliveryPoint": "test_tt72",
+    "transport": "",
+    "commodity": "",
+    "weight": "1",
+    "volume": "0",
+    "value": "0",
+    "penalty": "0",
+    "requiredPayment": false,
+    "availabilityWindows": [
+        {
+            "startTime": "09:00:00",
+            "endTime": "11:00:00"
+        }
+    ],
+    "deliveryDate": "02.05.2018",
+    "deadline": "01.01.0001 00:00:00",
+    "duration": "0",
+    "comment": "",
+    "countOfPallets": "0",
+    "countOfCases": "0",
+    "countOfPositions": "0",
+    "positions": []
+}
